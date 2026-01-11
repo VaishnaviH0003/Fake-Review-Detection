@@ -1,12 +1,14 @@
-# Fake Review Detection System
+# Fake Review Detection System-Using Naive Bayes Algorithm
 
 This project implements a machine learning–based approach to detect suspicious or fake product reviews using the Amazon Fine Food Reviews dataset.
 
 ## 📌 Dataset
-- Amazon Fine Food Reviews Dataset
-- Total Reviews: 568,000+
-- Source: Kaggle
+- This project uses the *Amazon Fine Food Reviews Dataset*.
+- Due to GitHub file size limits, the dataset is not included in this repository.
 - The dataset does not contain fake/genuine labels.
+- You can download it from:
+   Kaggle: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+- After downloading, place the CSV file inside the project folder before running the notebook.
 
 ## 📌 Problem Statement
 Online platforms suffer from fake reviews that mislead customers. Since real labels are unavailable, this project uses heuristic labeling to identify suspicious reviews and applies machine learning for classification.
