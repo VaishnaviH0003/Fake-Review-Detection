@@ -48,3 +48,6 @@ The project includes:
 
 ## 📌 Disclaimer
 The labels used in this project are heuristic-based and indicate suspicious patterns, not confirmed fake reviews.
+
+## 📌 Author
+Vaishnavi H
